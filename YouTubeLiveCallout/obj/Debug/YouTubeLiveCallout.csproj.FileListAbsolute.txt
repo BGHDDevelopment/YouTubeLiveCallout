@@ -1,0 +1,11 @@
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLiveCallout\YouTubeLiveCallout\bin\Debug\YouTubeLiveCallout.net.dll
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLiveCallout\YouTubeLiveCallout\bin\Debug\YouTubeLiveCallout.net.pdb
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLiveCallout\YouTubeLiveCallout\bin\Debug\CitizenFX.Core.Client.dll
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLiveCallout\YouTubeLiveCallout\bin\Debug\FivePD.net.dll
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLiveCallout\YouTubeLiveCallout\bin\Debug\CitizenFX.Core.Client.xml
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLiveCallout\YouTubeLiveCallout\bin\Debug\FivePD.net.xml
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLiveCallout\YouTubeLiveCallout\obj\Debug\YouTubeLiveCallout.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLiveCallout\YouTubeLiveCallout\obj\Debug\YouTubeLiveCallout.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLiveCallout\YouTubeLiveCallout\obj\Debug\YouTubeLiveCallout.csproj.CopyComplete
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLiveCallout\YouTubeLiveCallout\obj\Debug\YouTubeLiveCallout.net.dll
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLiveCallout\YouTubeLiveCallout\obj\Debug\YouTubeLiveCallout.net.pdb

@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.YouTubeLiveCallout.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLiveCallout\.idea\.idea.YouTubeLiveCallout\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
